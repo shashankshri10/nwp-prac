@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+.Obi{
+    background-image: url("./imgs/final1.png");
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+.btnRow{
+    position: relative;
+    top: 30%;
+    display: flex;
+    flex-flow: row wrap;
+    margin: auto;
+    padding: 2vw;
+    justify-content: space-around;
+    align-items: center;
+}
+.btnRow button{
+    width: 40vw;
+    height: 20vh;
+    border-radius: 0.5vw;
+    background-color: chartreuse;
+    color: brown;
+    font-size: 10vh;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: width 0.8s; 
+    transition: height 0.8s;
+}
+
+/* .btnRow button:hover{
+    width: 50vw;
+    height: 30vh;
+    transition: width 0.8s;
+    transition: height 0.8s;
+} */
+
+
+
+.drop.show{
+    width: 100%;
+    position: relative;
+    top: 10%;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.drop.show select{
+    width: 40vw;
+    height: 8vh;
+    background-color: gray;
+    color: #caf250;
+    font-size: 3vw;
+    border-radius: 0.5vh;
+}
+.drop.noshow{
+    display: none;
+}
+
+.txtboxCol.vis{
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 0.5vh; 
+    margin: auto;
+    position: relative;
+    top: 15vh;
+}
+.txtboxCol.vis input{
+    width: 40vw;
+    height: 5vh;
+    background-color: bisque;
+    color: darkgreen;
+    font-size: 2.5vw;
+    border-radius: 0.5vh;
+    margin: 0.5vh;
+}
+.txtboxCol.invis input{
+    display: none;
+}
+.infield{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.infield label{
+    flex-grow: 1;
+    font-size: 2.5vw;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow; 
+}
+.infield label:hover{
+    background-color: bisque;
+}

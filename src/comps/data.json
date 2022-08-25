@@ -1,0 +1,296 @@
+{
+    "events":
+    [
+     { "name": "A Picture Tale",
+      "about": "Pictures are worth a thousand words and a million emotions.A Picture Tale is the perfect excuse to capture moments, sublime glances and unforgettable moments",
+      "rules": [
+        "This is a theme-based individual competition.",
+        "There is no theme for prelims. The theme for the final round shall be released online two weeks before the event.",
+        "Any camera may be used (Digital SLRs, Mobile Camera etc.)",
+        "Each participant will have to submit a maximum of 10 photographs clicked during a specified time period.",
+        "The photographs shall also be submitted as a PDF file along with an apt title and a brief photo story description of not more than 30 words.",
+        "Photographs must be clicked after the theme is officially released. The EXIF data shall be checked and plagiarism will be dealt severely.",
+        "Only basic photo editing is allowed i.e. cropping, adjusting the hue/saturation, brightness, contrast levels. Photo morphing is strictly not allowed.",
+        "Spring Fest will not be responsible for any technical errors due to non-compatibility of photos."
+      ],
+      "JC": [],
+      "teamsize": [1, 1],
+      "mail": "filmfestival.sf22@gmail.com",
+      "subdoc": "the pdf format of your picture tale",
+      "mode": "Online"
+    },
+    {
+      "name" : "I Me Myself",
+      "about": "To all the drama queens out there, this is your best chance to hog the limelight and own the stage!",
+      "rules": [
+        "This is an individual event and will take place in 3 rounds. Hitch Hike - Nation Wide Prelims ,Pre-Finals and Finals. In 1st round participants have to present a mono act on any theme. In further rounds the theme will be notified to selected participants and they have to present their act in one week's time. ",
+        "Language of the act can be English/Hindi. Performance should not be silent(mime).",
+        "Total time allotted for every performance is 4 minutes ",
+        "If a participant exceeds the stipulated time, 15% of the total marks obtained will be deducted. If he/she exceeds 6 min, he/she stands to be debarred from the event.",
+        "Participants can play recorded music in their acts but recorded vocals are not allowed.",
+        "Instrumental music is allowed.",
+        " Any kind of video and audio editing is not allowed, the act should be recorded without a pause and in one take.",
+        "No naked flames or live animals are allowed. ",
+        "The participating teams are requested to ensure that their presentation is in keeping with the dignity of the fest."
+      ],
+      "offlinerules": [
+          "1.This is an individual event and will take place in 3 rounds. Hitch Hike - Nation Wide Prelims ,Pre-Finals and Finals. In 1st round participants have to present a mono act on any theme. In further rounds the theme will be notified to selected participants and they have to present their act in one week's time.",
+          "Language of the act can be English/Hindi. Performance should not be silent(mime).",
+          "Total time allotted for every performance is 4 minutes",
+          "If a participant exceeds the stipulated time, 15% of the total marks obtained will be deducted. If he/she exceeds 6 min, he/she stands to be debarred from the event.",
+          "Participants can play recorded music in their acts but recorded vocals are not allowed.",
+          "Instrumental music is allowed.",
+          "Any instance of vulgarity or disturbing content of any order will lead to forceful halt of performance and immediate disqualification.",
+          "No naked flames or live animals are allowed.",
+          "The participating teams are requested to ensure that their presentation is in keeping with the dignity of the fest."
+      ],
+      "JC": [],
+      "teamsize": [1, 1],
+      "mail": "dramatics.sf@gmail.com",
+      "subdoc": "your video entry",
+      "mode": "Offline",
+      "cities":
+      ["Chandigarh", 
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Pune",
+        "Bhubaneswar",
+        "Banglore",
+        "Hyderabad"]
+      
+    },
+    { "name" : "English Poetry Slam",
+      "about": "One of the events of the fest, which involves the combined art of story-telling, stand-up and poetry writing",
+      "rules": [
+        "Poems can be on any subject and in any style but must be original and in Hindi or English only.",
+        "Use of props, special costumes, musical instruments or pre-recorded music is not allowed. ",
+        "It will be held in 3 rounds:Nationwide Prelims ,Prefinals and Finals.",
+        "Recording of video should be done without any pauses (the whole video should be recorded at one time and not in parts)",
+        "No video and audio editing is allowed, if any such editing is detected participants will be disqualified.",
+        "Poems once performed may not be repeated in further rounds, except in case of tiebreaking rounds, violation of which disqualifies the poet. Therefore, each poet should plan on bringing at least 3 original poems to compete, with an extra poem as a buffer for a tie.",
+        "Time limit is three minutes. After three minutes, there is a 10-second grace period after which a penalty of 0.5 is automatically deducted, without warning, from each poet's overall score for every subsequent 10 seconds.",
+        "Teams may not repeat primary authorship in a bout. Every poet who performs during about must be a primary author."
+      ],
+      "offlinerules":[
+        "Poems can be on any subject and in any style but must be original and in Hindi or English only.",
+        "Use of props, special costumes, musical instruments or pre-recorded music is not allowed.",
+        "There is no upper limit of participants from a particular college. The judging shall however be done individually.",
+        
+        "Poems once performed may not be repeated in further rounds, except in case of tie- breaking rounds, violation of which disqualifies the poet. Therefore, each poet should plan on bringing at least 3 original poems to compete, with an extra poem as buffer for a tie.",
+        "Time limit is three minutes. After three minutes, there is a 10-second grace period after which a penalty of 0.5 is automatically deducted, without warning, from each poet's overall score for every subsequent 10 seconds.",
+        "Teams may not repeat primary authorship in a bout. Every poet who performs during a bout must be a primary author.",
+        "The judges’ will give each poem a score from 0 to 10.",
+        "The best 3 poets shall be adjudged the winners of Poetry Slam."
+      ],
+      "JC": [],
+      "teamsize": [1, 1],
+      "mail": "literary.sf22@gmail.com",
+      "subdoc": "your video entry",
+      "mode": "OfflineSelect"
+    },
+    { "name": "Hindi Poetry Slam",
+      "about": "One of the events of the fest, which involves the combined art of story-telling, stand-up and poetry writing",
+      "rules": [
+        "Poems can be on any subject and in any style but must be original and in Hindi or English only.",
+        "Use of props, special costumes, musical instruments or pre-recorded music is not allowed. ",
+        "It will be held in 3 rounds:Nationwide Prelims ,Prefinals and Finals.",
+        "Recording of video should be done without any pauses (the whole video should be recorded at one time and not in parts)",
+        "No video and audio editing is allowed, if any such editing is detected participants will be disqualified.",
+        "Poems once performed may not be repeated in further rounds, except in case of tiebreaking rounds, violation of which disqualifies the poet. Therefore, each poet should plan on bringing at least 3 original poems to compete, with an extra poem as a buffer for a tie.",
+        "Time limit is three minutes. After three minutes, there is a 10-second grace period after which a penalty of 0.5 is automatically deducted, without warning, from each poet's overall score for every subsequent 10 seconds.",
+        "Teams may not repeat primary authorship in a bout. Every poet who performs during about must be a primary author."
+      ],
+      "offlinerules":[
+        "Poems can be on any subject and in any style but must be original and in Hindi or English only.",
+        "Use of props, special costumes, musical instruments or pre-recorded music is not allowed.",
+        "There is no upper limit of participants from a particular college. The judging shall however be done individually.",
+        
+        "Poems once performed may not be repeated in further rounds, except in case of tie- breaking rounds, violation of which disqualifies the poet. Therefore, each poet should plan on bringing at least 3 original poems to compete, with an extra poem as buffer for a tie.",
+        "Time limit is three minutes. After three minutes, there is a 10-second grace period after which a penalty of 0.5 is automatically deducted, without warning, from each poet's overall score for every subsequent 10 seconds.",
+        "Teams may not repeat primary authorship in a bout. Every poet who performs during a bout must be a primary author.",
+        "The judges’ will give each poem a score from 0 to 10.",
+        "The best 3 poets shall be adjudged the winners of Poetry Slam."
+      ],
+      "JC": [],
+      "teamsize": [1, 1],
+      "mail": "literary.sf22@gmail.com",
+      "subdoc": "your video entry",
+      "mode":"OfflineSelect"
+    },
+    { "name": "SF Idol",
+      "about": "Get ready to unveil the singer within you as Spring Fest presents SF Idol",
+      "rules": [
+        "This is an individual event and will take place in 3 rounds. Rounds: NWP, Prefinals, Finals",
+        "Participants can perform any number of songs within 5 minutes after which 20% marks will be deducted after 10 seconds and disqualification may occur after 20 seconds.",
+        "The judging will be done solely on the basis of vocal performance. Participants can perform with one instrumental accompaniment or with a backing track.",
+        "Performance can be a movie song, an album song, or his/her original composition.",
+        "Participants can sing in either Hindi or English or both.",
+        "Judging criteria includes: a. Quality of voice b. Sense of scale and beat c. Quality of rendition d. Improvisation e. Pronunciation of lyrics f. Mood and expression g. Overall impact",
+        "Recording of video should be done without any pauses (the whole video should be recorded at one time and not in parts)",
+        "No video and audio editing is allowed, if any such editing is detected participants will be disqualified."
+      ],
+      "offlinerules":[
+          "Prelims will be conducted in Mumbai, Bhubaneswar, Delhi, Kolkata, and Jaipur. Winning participant will get a direct entry into the finals of SF Idol, which will be held online during the fest.",
+          "Participants need to perform a single song in Hindi or English or both and it can be a movie song, an album song, or his/her original composition.",
+          "Participants can perform with one instrumental accompaniment or with a backing track. Participants should also bring their songs/music in a pen-drive at the time of the event.",
+          "Duration of performance must be within 3-5 minutes.",
+          "Judging criteria includes quality of voice, sense of scale and beat, quality of rendition, improvisation, pronunciation of lyrics, mood and expression and overall impact"
+      ],
+      "JC": [],
+      "teamsize": [1, 1],
+      "mail": "music.sf22@gmail.com",
+      "subdoc": "your video entry",
+      "mode": "Offline"
+    },
+    { "name": "Shake A Leg",
+      "about": "When you are happy and you know it, Shake a Leg. A daring platform to showcase your moves and compete against the best dancers in the country",
+      "rules": [
+        "This is an individual event and will take place in 3 rounds. Rounds: NWP, Prefinals, Finals",
+        "Participants have to record a video of themselves while performing.",
+        "All western dance forms are allowed, Indian classical dance forms are not allowed.",
+        "Time limit is 2 min to 3 min, after which 20% marks will be deducted after 10 seconds and disqualification may occur after 20 seconds .",
+        "Judging criteria includes choreography, justification with given emotion, Attitude, energy level, innovation,and presentation. ",
+        "The performance should be in cohesion with the integrity of the fest. The songs selected by the participants must not contain any foul language. Live animals and naked flames are not allowed.",
+        "Recording of video should be done without any pauses ( the whole video should be recorded at one time and not in parts)",
+        "No video and audio editing is allowed, if any such editing is detected participants will be disqualified."
+      ],
+      "offlinerules":[
+          "Prelims will be conducted in Mumbai, Bhubaneswar, Delhi, Kolkata, and Jaipur. Winning participant will get a direct entry into the finals of Shake a Leg, which will be held online during the fest.",
+          "The performance should be minimum 1.5 minutes and maximum 2 minutes long (music on to music off). All dance forms are allowed.",
+          "Judging criteria includes choreography, stage utilization, energy level, innovation, presentation and overall impact on the crowd.",
+          "Participants should bring their songs/music in a pen-drive at the time of the event. Live music is not allowed.",
+            "Accessories, costumes and props will have to be arranged by the participants.",
+            "The performance should be in cohesion with the integrity of the fest. The songs selected by the participants must not contain any foul language. Live animals and naked flames are not allowed."
+      ],
+      "JC": [],
+      "teamsize": [1, 1],
+      "mail": "dramatics.sf@gmail.com",
+      "subdoc": "your video entry",
+      "mode": "Offline"
+    },
+    { "name": "Nrityakala",
+      "about": "Classical Dance, Solo Competition. A daring platform to showcase your moves and compete against the best dancers in the country",
+      "rules": [
+        "This is an individual event and will take place in 2 rounds. Rounds: NWP, Finals",
+        "Participants have to record a video of themselves while performing.",
+        "Indian classical dance forms like Bharatanatyam, Kathak, Kathakali, Manipuri, Mohiniyattam, Sattriya, Kuchipudi, Odissi, and Gaudiya Nritya. No other dance form is allowed.",
+        "Different dance forms will not be judged separately.",
+        "Time limit is 2 min to 3 min, after which 20% marks will be deducted after 10 seconds and disqualification may occur after 20 seconds .",
+        "Judging criteria includes choreography, facial expressions, body language, footwork, hand and eye movements and presentation.",
+        "The performance should be in cohesion with the integrity of the fest. The songs selected by the participants must not contain any foul language. Live animals and naked flames are not allowed.",
+        "Recording of video should be done without any pauses ( the whole video should be recorded at one time and not in parts)",
+        "No video and audio editing is allowed , if any such editing is detected participants will be disqualified."
+      ],
+      "JC": [],
+      "teamsize": [1, 1],
+      "mail": "dance.sf22@gmail.com",
+      "subdoc": "your video entry",
+      "mode":"Online"
+    },
+    { "name": "Two For A Tango",
+      "about": "A duet dancing competition that sets the stage ablaze with the astonishing chemistry between the partners",
+      "rules": [
+        "The event is strictly a duo dance competition and there shouldn't be any extra person at any point during the performance, any combination of two people irrespective of the gender is allowed.",
+        "It will be held in three rounds. Rounds: NWP, Prefinals and Finals",
+        "The performance should be minimum 2 minutes and maximum 3 minutes long. All dance forms are allowed.",
+        "Judging criteria includes choreography, energy level, innovation, presentation and overall impact.",
+        "For both prelims and finals, 20% marks will be deducted if the performance exceeds by 15 sec. If the performance increases further by 30 seconds, it will lead to disqualification.",
+        "The performance should be in cohesion with the integrity of the fest. The songs selected by the participants must not contain any foul language. Live animals and naked flames are not allowed.",
+        "You can also use your creativity via Split Screen/ Collab etc to showcase the duet effect in the videos."
+      ],
+      "offlinerules":[
+          "Prelims will be conducted in Mumbai, Bhubaneswar, Delhi, Kolkata, and Jaipur. Winning participant will get a direct entry into the finals of Shake a Leg, which will be held online during the fest.",
+        "The performance should be minimum 1.5 minutes and maximum 2 minutes long (music on to music off). All dance forms are allowed.",
+        "Judging criteria includes choreography, stage utilization, energy level, innovation, presentation, and overall impact on the crowd.",
+        "Participants should also bring their songs/music in a pen-drive at the time of the event. Live music is not allowed.",
+        "The event is strictly a duo dance competition and there shouldn't be any extra person on stage at any point during the performance.",
+        "Any combination of two people irrespective of the gender is allowed.",
+        "Accessories, costumes and props will have to be arranged by the participants. The performance should be in cohesion with the integrity of the fest. The songs selected by the participants must not contain any foul language. Live animals and naked flames are not allowed."
+    ],
+      "JC": [],
+      "teamsize": [2, 2],
+      "mail": "dance.sf22@gmail.com",
+      "subdoc": "your video entry",
+      "mode":"Offline"
+    },
+    { "name": "Shuffle",
+      "about": "The Nationwide Street Dance Competition",
+      "rules": [
+        "The time limit is 4 min to 6 min (length of the music track).",
+        "Participants should perform for more than 2 tracks.",
+        "You can also use your creativity via Split Screen/ Collab etc to showcase the group effect in the videos.",
+        "The performance should be in cohesion with the integrity of the fest. The songs selected by the participants must not contain any foul language. Naked flames & live animals are not allowed. Violation of any of the above will lead to immediate disqualification.",
+        "Judging criteria: · Choreography, Costumes, Energy Level, Innovation"
+      ],
+      "offlinerules":[
+          "Prelims will be conducted in Mumbai, Bhubaneswar, Delhi, Kolkata, and Jaipur. Winning participant will get a direct entry into the finals of Shuffle, which will be held online during the fest.",
+          "The time limit is 4 min -6 min (length of the music track).",
+          "Participants should perform for more than 2 tracks.",
+          "Participants should also bring their songs/music in a pen-drive at the time of the event. Live music is not allowed.",
+          "Team size — Min 4 and Max 10.",
+          "Props are not allowed.",
+          "Judging criteria includes choreography, stage utilization, costumes, energy level, innovation, presentation and overall impact on the crowd.",
+          "The performance should be in cohesion with the integrity of the fest. The songs selected by the participants must not contain any foul language. Naked flames & live animals are not allowed. Violation of any of the above will lead to immediate disqualification."
+      ],
+      "JC": [],
+      "teamsize": [4, 10],
+      "mail": "dance.sf22@gmail.com",
+      "subdoc": "your video entry",
+      "mode": "Offline"
+    },
+    { "name": "Panache",
+      "about": "Paper dress designing competition. This will be your moment of glory and your chance to steal the show, so prep up for Panache and dazzle the audience with your talent and skills.",
+      "rules": [
+        "This is an individual event and will take place in 2 rounds. Rounds: NWP, Finals",
+        "Participating teams are needed to make a dress from the Newspapers, A4 sheets, Ribbons, scissor, gift wrap, stapler, pins, and cello tape. No additional logistics apart from this can be used.",
+        "Participants can use a model for presentation purposes.",
+        "Participants have to send a 30 sec video along with 4-6 pictures in which they should present all directions (front, back, left and right) of the dress.",
+        "Only basic photo editing is allowed i.e. cropping, adjusting the hue/saturation, brightness, contrast levels. Photo morphing is strictly not allowed.",
+        "Any potentially vulgar designing of the dress will lead to disqualification."
+      ],
+      "JC": [],
+      "teamsize": [1, 2],
+      "mail": "fashion.sf22@gmail.com",
+      "subdoc": "the pdf file of your pictures and video",
+      "mode":"Online"
+    },
+    { "name": "Nukkad",
+      "about": "Exploiting the power of a street gathering, Nukkad or street plays have been the medium of the voice of the people from time immemorial. Now be a part of this tradition and strive to bring about change by taking part in Nukkad, one of the most acclaimed street play competitions in India. It is time to break barriers so clear your voices, get ready for the action, drum it up, folks and let your message ring out loud!",
+      "offlinerules": [
+        "Prelims will be conducted in Mumbai, Bhubaneswar, Delhi, Kolkata, and Jaipur. Winning participant will get a direct entry into the finals of Nukkad, which will be held online during the fest.",
+        "The team shall consist of Max 20 people and a Min of 6 people excluding 2 instrumentalists (optional).",
+        "Time limit shall be 20 minutes.",
+        "In case of violation of the time limit, participants will be penalized by the judges. The time duration for prelims and finals includes performance time and stage setting time.",
+        "Usage of fire, water or smoke is not allowed.",
+        "Gulaal or any props, if used, must be cleared off by the participants after their performance within the performance time allotted to them.",
+        "Any instance of vulgarity or disturbing content of any order will lead to forceful halt of performance and immediate disqualification.",
+        "Only live music is allowed. Teams will have to bring their own instruments.",
+        "Judging Criterion: a. Content, Theme and Message - 40% b. Performance including Acting, Dialogues and Expression- 25% c. Interaction and Improvisation - 20% d. Direction, Gimmicks and Effects - 15%"
+      ],
+      "JC": [],
+      "teamsize": [6, 20],
+      "mail": "dramatics.sf22@gmail.com",
+      "subdoc": "their video submission",
+      "mode":"Offline"
+    },
+    { "name": "Hilarity Ensues",
+      "about": "Since time immemorial, certain individuals have strived upon making their peers smile, chuckle, giggle and laugh. Spring Fest strives to celebrate all that is worth spreading joy in our world, and in the same spirit, we bring to you a spectacular event in the search for the next big name in Indian Comedy.",
+      "offlinerules": [
+        "This is an individual event.",
+
+        "The event will be conducted in two rounds, prelims and finals.",
+        "Shortlisted participants will qualify for finals.",
+        "Each participant will be provided a maximum of 5 minutes to perform.",
+        "Participants need to perform in Hindi or English or both.",
+        "Judging criterion will be mainly based on creativity, presentation and humor."
+      ],
+      "JC": [],
+      "teamsize": [1, 2],
+      "mail": "",
+      "subdoc": "",
+      "mode": "OfflineOnly"
+    }
+    ]
+  }
+  
