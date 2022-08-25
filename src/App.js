@@ -10,7 +10,7 @@ function App() {
   },[]);
   return (
     <div className="App">
-      <PlainEvents name="Shuffle" />
+      <PlainEvents name="Two For A Tango" />
       
     </div>
   );

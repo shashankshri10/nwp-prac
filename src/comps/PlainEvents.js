@@ -51,6 +51,12 @@ function PlainEvents(props) {
                 setreg("Press down button to register.");
                 if (mainArr.length==1){
                     setdrop(false); 
+                    setchoice(mainArr.length);
+                    let y=[]; 
+                    for (let i=0;i<mainArr[0];i++){
+                        y[i]=1; 
+                    }
+                    settemparr(y); 
                 }else {
                     setdrop(true);
                 }
@@ -128,7 +134,7 @@ function PlainEvents(props) {
 
             </div>
 
-            <div className={(setchoice!==null)?"txtboxCol vis":"txtboxCol invis"}>
+            <div className={(choice!==null)?"txtboxCol vis":"txtboxCol invis"}>
                 {
                     temparr.map((el,index)=>{
                         return(
